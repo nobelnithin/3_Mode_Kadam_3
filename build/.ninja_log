@@ -1513,3 +1513,13 @@
 21873	22438	7447108152793567	C:/Biostim/Firmware/3_Mode_Kadam_3/build/.bin_timestamp	b35005b852d2bfc
 22439	22610	0	esp-idf/esptool_py/CMakeFiles/app_check_size	2652c901f921ec9b
 22439	22610	0	C:/Biostim/Firmware/3_Mode_Kadam_3/build/esp-idf/esptool_py/CMakeFiles/app_check_size	2652c901f921ec9b
+353	541	0	esp-idf/esptool_py/CMakeFiles/app_check_size	2652c901f921ec9b
+353	541	0	C:/Biostim/Firmware/3_Mode_Kadam_3/build/esp-idf/esptool_py/CMakeFiles/app_check_size	2652c901f921ec9b
+339	654	7446311858519097	bootloader-prefix/src/bootloader-stamp/bootloader-build	59f3ed27ea63e460
+339	654	7446311858519097	bootloader/bootloader.elf	59f3ed27ea63e460
+339	654	7446311858519097	bootloader/bootloader.bin	59f3ed27ea63e460
+339	654	7446311858519097	bootloader/bootloader.map	59f3ed27ea63e460
+339	654	7446311858519097	C:/Biostim/Firmware/3_Mode_Kadam_3/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	59f3ed27ea63e460
+339	654	7446311858519097	C:/Biostim/Firmware/3_Mode_Kadam_3/build/bootloader/bootloader.elf	59f3ed27ea63e460
+339	654	7446311858519097	C:/Biostim/Firmware/3_Mode_Kadam_3/build/bootloader/bootloader.bin	59f3ed27ea63e460
+339	654	7446311858519097	C:/Biostim/Firmware/3_Mode_Kadam_3/build/bootloader/bootloader.map	59f3ed27ea63e460
